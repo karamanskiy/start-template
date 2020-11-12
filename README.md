@@ -4,7 +4,7 @@
 1. *gulp* - start project
 2. *gulp production* - build production version
 :call_me_hand:
-------
+
 ## Services: ##
 - https://icomoon.io/ - for build icon-font
 - https://tinypng.com/ - optimize images
